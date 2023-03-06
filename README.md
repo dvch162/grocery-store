@@ -1,4 +1,4 @@
-# A Grocery Store built with React 😋️
+# A Grocery Store built with React 
 
 This project is a React version of this [tutorial](https://www.youtube.com/watch?v=lCCN_lkl3Xw)
 
