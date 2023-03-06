@@ -22,7 +22,7 @@ export default function Footer() {
         <div className="box">
           <FontAwesomeIcon icon={['fas', 'faUser']} />
           <h3>
-            groco
+            j-rocery
             <i>
               <FontAwesomeIcon icon={faShoppingBasket} />
             </i>
@@ -134,7 +134,7 @@ export default function Footer() {
         <p>
           Created By
           {' '}
-          <span>Mr. Web Designer</span>
+          <span>dvch162</span>
           {' '}
           | All Rights Reserved
         </p>
