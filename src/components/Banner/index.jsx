@@ -8,7 +8,7 @@ export default function Banner() {
       className="banner"
       id="banner"
       style={{
-        background: 'url("../image/banner-bg.webp") no-repeat',
+        background: 'url("../image/grocery-main.jpeg") no-repeat',
         backgroundPosition: 'center',
         backgroundSize: 'cover',
       }}
